@@ -1,5 +1,5 @@
-# Netflix EDA Project
-
+# Netflix_Titles_EDA
+![Netflix Logo](https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png)\
 This repository contains an Exploratory Data Analysis (EDA) project focused on Netflix content. The analysis explores various features to gain insights into the streaming platform's offerings.
 
 ## Features
